@@ -31,6 +31,7 @@ print("una sola linea",  list(  map( lambda x: x*2 if x%2 == 1 else x, list(  fi
 # preguntas por resolver
 # si se mapea primero que ocurre?
 # ¿cuales son las 10 diferencias más importantes entre python y js en filtrado mapeado y en las funciones lambda y flecha ?
+# si los nombre de map y filter en ambos lenguajes fueran diferentes cuales nombres serian correctos ?
 
 # el siguente es codigo de js , comentado con triple comilla doble " 
 """
